@@ -12,6 +12,7 @@ namespace Imperative
 
     public class TypeHandling
     {
+        //Method that accepts two parameters of different types and returns their sum.
         public int sum(string number1, int number2)
         {
             int number3; 
@@ -29,6 +30,8 @@ namespace Imperative
 
     public class NullHandling
     {
+        //Method that takes a nullable integer as a parameter and prints its value if it is not null
+        //And used the null coalescing operator to assign a default value if the value is null.
         public void printNullableInt(Nullable<int> number)
         {
             if(number.HasValue)
@@ -44,6 +47,7 @@ namespace Imperative
 
     public class StringInterpolation
     {
+        //Method that takes a name and age as input and displays a message using string interpolation.
         public void printString(string name, int age)
         {
             Console.WriteLine($"The persons name is {name} and their age is {age}"); 
@@ -52,6 +56,7 @@ namespace Imperative
 
     public class PatternMatching
     {
+        //Method that checks if a given object is a data type and prints the what data type it is.
         public void Types (object type)
         {
             switch(type)
