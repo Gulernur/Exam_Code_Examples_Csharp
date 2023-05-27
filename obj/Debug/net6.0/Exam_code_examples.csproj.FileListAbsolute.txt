@@ -1,0 +1,15 @@
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/bin/Debug/net6.0/Exam_code_examples
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/bin/Debug/net6.0/Exam_code_examples.deps.json
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/bin/Debug/net6.0/Exam_code_examples.runtimeconfig.json
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/bin/Debug/net6.0/Exam_code_examples.dll
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/bin/Debug/net6.0/Exam_code_examples.pdb
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.csproj.AssemblyReference.cache
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.AssemblyInfoInputs.cache
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.AssemblyInfo.cs
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.csproj.CoreCompileInputs.cache
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.dll
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/refint/Exam_code_examples.dll
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.pdb
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/Exam_code_examples.genruntimeconfig.cache
+/Users/gulernurdonmez/visual studio/C#/Exam_code_examples/obj/Debug/net6.0/ref/Exam_code_examples.dll
